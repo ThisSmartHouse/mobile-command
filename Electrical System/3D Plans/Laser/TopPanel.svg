@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" shaper:sketchupaddin="2.3.0" xmlns:shaper="http://www.shapertools.com/namespaces/shaper"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="2522.8px"
+	 height="915.6px" viewBox="0 0 2522.8 915.6" style="enable-background:new 0 0 2522.8 915.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:0.2835;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:0.2835;stroke-miterlimit:288;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:31.1811px;}
+	.st4{font-size:62.3622px;}
+</style>
+<desc>Shaper cut profile from Sketchup model Cabinet Panels</desc>
+<path shaper:cutDepth="0.1969" shaper:pathType="exterior" class="st0" d="M2522.8,0v915.6H0V0H2522.8z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M1836.8,257.9v-56.7
+	h447.9v56.7h93.5v399.7h-93.5v56.7h-447.9v-56.7h-93.5V257.9H1836.8z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M943.9,657.6V257.9
+	h93.5v-56.7h447.9v56.7h93.5v399.7h-93.5v56.7h-447.9v-56.7H943.9z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M484.7,257.9h93.5
+	v399.7h-93.5v56.7H238.1v-56.7h-93.5V257.9h93.5v-56.7h246.6V257.9z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M1252.5,856.3
+	l-0.9-2.5l-0.2-2.7l0.5-2.6l1.2-2.4l1.7-2l2.2-1.5l2.5-0.9l2.7-0.2l2.6,0.5l2.4,1.2l2,1.7l1.5,2.2l0.9,2.5l0.2,2.7l-0.5,2.6
+	l-1.2,2.4l-1.8,2l-2.2,1.5l-2.5,0.9l-2.7,0.2l-2.6-0.5l-2.4-1.2l-2-1.8L1252.5,856.3z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M1882.3,66.4
+	l-0.3-2.6l0.3-2.6l1-2.5l1.6-2.1l2.1-1.6l2.5-1l2.6-0.3l2.6,0.3l2.5,1l2.1,1.6l1.6,2.1l1,2.5l0.4,2.6l-0.4,2.6l-1,2.5l-1.6,2.1
+	l-2.1,1.6l-2.5,1l-2.6,0.3l-2.6-0.3l-2.5-1l-2.1-1.6l-1.6-2.1L1882.3,66.4z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M1271.5,61.1l0.3,2.6
+	l-0.3,2.6l-1,2.5l-1.6,2.1l-2.1,1.6l-2.5,1l-2.6,0.3l-2.6-0.3l-2.5-1l-2.1-1.6l-1.6-2.1l-1-2.5l-0.3-2.6l0.3-2.6l1-2.5l1.6-2.1
+	l2.1-1.6l2.5-1l2.6-0.3l2.6,0.3l2.5,1l2.1,1.6l1.6,2.1L1271.5,61.1z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M2468.9,66.4l-1,2.5
+	l-1.6,2.1l-2.1,1.6l-2.5,1l-2.6,0.3l-2.6-0.3l-2.5-1l-2.1-1.6l-1.6-2.1l-1-2.5l-0.3-2.6l0.3-2.6l1-2.5l1.6-2.1l2.1-1.6l2.5-1
+	l2.6-0.3l2.6,0.3l2.5,1l2.1,1.6l1.6,2.1l1,2.5l0.4,2.6L2468.9,66.4z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M640,61.1l0.3,2.6
+	l-0.3,2.6l-1,2.5l-1.6,2.1l-2.1,1.6l-2.5,1l-2.6,0.3l-2.6-0.3l-2.5-1L623,71l-1.6-2.1l-1-2.5l-0.4-2.6l0.4-2.6l1-2.5l1.6-2.1
+	l2.1-1.6l2.5-1l2.6-0.3l2.6,0.3l2.5,1l2.1,1.6l1.6,2.1L640,61.1z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M58.7,466.6l-2.1-1.6
+	l-1.6-2.1l-1-2.5l-0.3-2.6l0.3-2.6l1-2.5l1.6-2.1l2.1-1.6l2.5-1l2.6-0.3l2.6,0.3l2.5,1l2.1,1.6l1.6,2.1l1,2.5l0.4,2.6l-0.4,2.6
+	l-1,2.5L71,465l-2.1,1.6l-2.5,1l-2.6,0.4l-2.6-0.4L58.7,466.6z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M2466.3,465l-2.1,1.6
+	l-2.5,1l-2.6,0.4l-2.6-0.4l-2.5-1l-2.1-1.6l-1.6-2.1l-1-2.5l-0.3-2.6l0.3-2.6l1-2.5l1.6-2.1l2.1-1.6l2.5-1l2.6-0.3l2.6,0.3l2.5,1
+	l2.1,1.6l1.6,2.1l1,2.5l0.4,2.6l-0.4,2.6l-1,2.5L2466.3,465z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M71,71l-2.1,1.6
+	l-2.5,1L63.8,74l-2.6-0.3l-2.5-1L56.6,71l-1.6-2.1l-1-2.5l-0.3-2.6l0.3-2.6l1-2.5l1.6-2.1l2.1-1.6l2.5-1l2.6-0.3l2.6,0.3l2.5,1
+	l2.1,1.6l1.6,2.1l1,2.5l0.4,2.6l-0.4,2.6l-1,2.5L71,71z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M74,851.8l-0.4,2.6
+	l-1,2.5L71,859l-2.1,1.6l-2.5,1l-2.6,0.3l-2.6-0.3l-2.5-1l-2.1-1.6l-1.6-2.1l-1-2.5l-0.3-2.6l0.3-2.6l1-2.5l1.6-2.1l2.1-1.6l2.5-1
+	l2.6-0.4l2.6,0.4l2.5,1l2.1,1.6l1.6,2.1l1,2.5L74,851.8z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M640.4,852.6
+	l-0.5,2.6l-1.2,2.4l-1.8,2l-2.2,1.5l-2.5,0.8l-2.7,0.1l-2.6-0.5l-2.4-1.2l-2-1.8l-1.5-2.2l-0.8-2.5L620,851l0.5-2.6l1.2-2.4l1.8-2
+	l2.2-1.5l2.5-0.8l2.7-0.2l2.6,0.5l2.4,1.2l2,1.8l1.5,2.2l0.8,2.5L640.4,852.6z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M1900.4,857.7l-1.8,2
+	l-2.3,1.4l-2.5,0.8l-2.7,0.1l-2.6-0.6l-2.4-1.2l-2-1.8l-1.4-2.3l-0.8-2.5l-0.1-2.7l0.6-2.6l1.2-2.4l1.8-2l2.3-1.4l2.5-0.8l2.7-0.1
+	l2.6,0.6l2.4,1.2l2,1.8l1.4,2.3l0.8,2.5l0.1,2.7l-0.6,2.6L1900.4,857.7z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M2462.5,861.4
+	l-2.6,0.6l-2.7-0.1l-2.5-0.8l-2.2-1.4l-1.8-2l-1.2-2.4l-0.6-2.6l0.1-2.7l0.8-2.5l1.4-2.2l2-1.8l2.4-1.2l2.6-0.6l2.7,0.1l2.5,0.8
+	l2.2,1.4l1.8,2l1.2,2.4l0.6,2.6l-0.1,2.7l-0.8,2.5l-1.4,2.2l-2,1.8L2462.5,861.4z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M779.2,335.1l0.1-1.1
+	l0.4-1l0.7-0.9l0.9-0.7l1-0.4l1.1-0.1l1.1,0.1l1,0.4l0.9,0.7l0.7,0.9l0.4,1l0.1,1.1l-0.1,1.1l-0.4,1l-0.7,0.9l-0.9,0.7l-1,0.4
+	l-1.1,0.1l-1.1-0.1l-1-0.4l-0.9-0.7l-0.7-0.9l-0.4-1L779.2,335.1z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M890.9,437l-0.1-1.1
+	l0.1-1.1l0.4-1l0.7-0.9l0.9-0.7l1-0.4l1.1-0.1l1.1,0.1l1,0.4l0.9,0.7l0.7,0.9l0.4,1l0.1,1.1l-0.1,1.1l-0.4,1l-0.7,0.9l-0.9,0.7
+	l-1,0.4l-1.1,0.1l-1.1-0.1l-1-0.4l-0.9-0.7l-0.7-0.9L890.9,437z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M787.5,434.7l0.2,1.1
+	l-0.1,1.1l-0.4,1l-0.7,0.9l-0.9,0.7l-1,0.4l-1.1,0.2l-1.1-0.1l-1-0.4l-0.9-0.7l-0.7-0.9l-0.4-1l-0.2-1.1l0.1-1.1l0.4-1l0.7-0.9
+	l0.9-0.7l1-0.4l1.1-0.2l1.1,0.1l1,0.4l0.9,0.7l0.7,0.9L787.5,434.7z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M787.5,579.4l0.1,1.1
+	l-0.1,1.1l-0.4,1l-0.7,0.9l-0.9,0.7l-1,0.4l-1.1,0.1l-1.1-0.1l-1-0.4l-0.9-0.7l-0.7-0.9l-0.4-1l-0.1-1.1l0.1-1.1l0.4-1l0.7-0.9
+	l0.9-0.7l1-0.4l1.1-0.1l1.1,0.1l1,0.4l0.9,0.7l0.7,0.9L787.5,579.4z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M890.9,334l0.4-1
+	l0.7-0.9l0.9-0.7l1-0.4l1.1-0.1l1.1,0.1l1,0.4l0.9,0.7l0.7,0.9l0.4,1l0.1,1.1l-0.1,1.1l-0.4,1l-0.7,0.9l-0.9,0.7l-1,0.4l-1.1,0.1
+	l-1.1-0.1l-1-0.4l-0.9-0.7l-0.7-0.9l-0.4-1l-0.1-1.1L890.9,334z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M845.8,717.3
+	l-0.7-0.9l-0.4-1l-0.1-1.1l0.1-1.1l0.4-1l0.7-0.9l0.9-0.7l1-0.4l1.1-0.1l1.1,0.1l1,0.4l0.9,0.7l0.7,0.9l0.4,1l0.1,1.1l-0.1,1.1
+	l-0.4,1l-0.7,0.9L851,718l-1,0.4l-1.1,0.1l-1.1-0.1l-1-0.4L845.8,717.3z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M853.1,648.2
+	l-0.1,1.1l-0.4,1l-0.7,0.9l-0.9,0.7l-1,0.4l-1.1,0.1l-1.1-0.1l-1-0.4l-0.9-0.7l-0.7-0.9l-0.4-1l-0.1-1.1l0.1-1.1l0.4-1l0.7-0.9
+	l0.9-0.7l1-0.4l1.1-0.1l1.1,0.1l1,0.4l0.9,0.7l0.7,0.9l0.4,1L853.1,648.2z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M682.9,646l0.4,1
+	l0.1,1.1l-0.1,1.1l-0.4,1l-0.7,0.9l-0.9,0.7l-1,0.4l-1.1,0.1l-1.1-0.1l-1-0.4l-0.9-0.7l-0.7-0.9l-0.4-1l-0.1-1.1l0.1-1.1l0.4-1
+	l0.7-0.9l0.9-0.7l1-0.4l1.1-0.1l1.1,0.1l1,0.4l0.9,0.7L682.9,646z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M679.2,710.1l1.1,0.1
+	l1,0.4l0.9,0.7l0.7,0.9l0.4,1l0.1,1.1l-0.1,1.1l-0.4,1l-0.7,0.9l-0.9,0.7l-1,0.4l-1.1,0.1l-1.1-0.1l-1-0.4l-0.9-0.7l-0.7-0.9l-0.4-1
+	l-0.1-1.1l0.1-1.1l0.4-1l0.7-0.9l0.9-0.7l1-0.4L679.2,710.1z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M736.6,583.2
+	l-0.9-0.7l-0.7-0.9l-0.4-1l-0.1-1.1l0.1-1.1l0.4-1l0.7-0.9l0.9-0.7l1-0.4l1.1-0.1l1.1,0.1l1,0.4l0.9,0.7l0.7,0.9l0.4,1l0.1,1.1
+	l-0.1,1.1l-0.4,1l-0.7,0.9l-0.9,0.7l-1,0.4l-1.1,0.1l-1.1-0.1L736.6,583.2z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M899.1,478.6l0.1,1.1
+	l-0.1,1.1l-0.4,1l-0.7,0.9l-0.9,0.7l-1,0.4l-1.1,0.1l-1.1-0.1l-1-0.4l-0.9-0.7l-0.7-0.9l-0.4-1l-0.1-1.1l0.1-1.1l0.4-1l0.7-0.9
+	l0.9-0.7l1-0.4l1.1-0.1l1.1,0.1l1,0.4l0.9,0.7l0.7,0.9L899.1,478.6z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M779.3,480.8
+	l-0.1-1.1l0.1-1.1l0.4-1l0.7-0.9l0.9-0.7l1-0.4l1.1-0.1l1.1,0.1l1,0.4l0.9,0.7l0.7,0.9l0.4,1l0.1,1.1l-0.1,1.1l-0.4,1l-0.7,0.9
+	l-0.9,0.7l-1,0.4l-1.1,0.1l-1.1-0.1l-1-0.4l-0.9-0.7l-0.7-0.9L779.3,480.8z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M631.2,578.5l0.1,1.1
+	l-0.1,1.1l-0.4,1l-0.7,0.9l-0.9,0.7l-1,0.4l-1.1,0.1l-1.1-0.1l-1-0.4l-0.9-0.7l-0.7-0.9l-0.4-1l-0.1-1.1l0.1-1.1l0.4-1l0.7-0.9
+	l0.9-0.7l1-0.4l1.1-0.1l1.1,0.1l1,0.4l0.9,0.7l0.7,0.9L631.2,578.5z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M622.1,438.8
+	l-0.7-0.9l-0.4-1l-0.1-1.1l0.2-1.1l0.4-1l0.7-0.9l0.9-0.7l1-0.4l1.1-0.1l1.1,0.2l1,0.4l0.9,0.7l0.7,0.9l0.4,1l0.1,1.1l-0.2,1.1
+	l-0.4,1l-0.7,0.9l-0.9,0.7l-1,0.4l-1.1,0.1L624,440l-1-0.4L622.1,438.8z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M631.2,477.7l0.1,1.1
+	l-0.1,1.1l-0.4,1l-0.7,0.9l-0.9,0.7l-1,0.4l-1.1,0.1l-1.1-0.1l-1-0.4l-0.9-0.7l-0.7-0.9l-0.4-1l-0.1-1.1l0.1-1.1l0.4-1l0.7-0.9
+	l0.9-0.7l1-0.4l1.1-0.1l1.1,0.1l1,0.4l0.9,0.7l0.7,0.9L631.2,477.7z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M740.9,334l0.1,1.1
+	l-0.1,1.1l-0.4,1l-0.7,0.9l-0.9,0.7l-1,0.4l-1.1,0.1l-1.1-0.1l-1-0.4l-0.9-0.7l-0.7-0.9l-0.4-1l-0.1-1.1l0.1-1.1l0.4-1l0.7-0.9
+	l0.9-0.7l1-0.4l1.1-0.1l1.1,0.1l1,0.4l0.9,0.7l0.7,0.9L740.9,334z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M890.9,581.6
+	l-0.1-1.1l0.1-1.1l0.4-1l0.7-0.9l0.9-0.7l1-0.4l1.1-0.1l1.1,0.1l1,0.4l0.9,0.7l0.7,0.9l0.4,1l0.1,1.1l-0.1,1.1l-0.4,1l-0.7,0.9
+	l-0.9,0.7l-1,0.4l-1.1,0.1l-1.1-0.1l-1-0.4l-0.9-0.7l-0.7-0.9L890.9,581.6z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M741.7,475.8l0.7,0.9
+	l0.4,1l0.1,1.1l-0.1,1.1l-0.4,1l-0.7,0.9l-0.9,0.7l-1,0.4l-1.1,0.1l-1.1-0.1l-1-0.4l-0.9-0.7l-0.7-0.9l-0.4-1l-0.1-1.1l0.1-1.1
+	l0.4-1l0.7-0.9l0.9-0.7l1-0.4l1.1-0.1l1.1,0.1l1,0.4L741.7,475.8z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M732.7,437l-0.1-1.1
+	l0.1-1.1l0.4-1l0.7-0.9l0.9-0.7l1-0.4l1.1-0.1l1.1,0.1l1,0.4l0.9,0.7l0.7,0.9l0.4,1l0.1,1.1l-0.1,1.1l-0.4,1l-0.7,0.9l-0.9,0.7
+	l-1,0.4l-1.1,0.1l-1.1-0.1l-1-0.4l-0.9-0.7l-0.7-0.9L732.7,437z"/>
+<path vector-effect="non-scaling-stroke" shaper:cutDepth="0.1969" shaper:pathType="interior" class="st1" d="M629.1,333.5l0.3,1.1
+	l0,1.1l-0.3,1.1l-0.6,0.9l-0.8,0.8l-1,0.5l-1.1,0.3l-1.1,0l-1.1-0.3l-1-0.6l-0.8-0.8l-0.5-1l-0.3-1.1l0-1.1l0.3-1.1l0.6-1l0.8-0.8
+	l1-0.5l1.1-0.3l1.1,0l1.1,0.3l1,0.6l0.8,0.8L629.1,333.5z"/>
+<path d="M755.9,661.3l-3.8,3.8c8.5,8.4,8.5,22.1,0,30.6l3.8,3.8C766.4,688.9,766.4,671.8,755.9,661.3 M748.3,668.9l-3.8,3.8
+	c4.2,4.2,4.2,11,0,15.3l3.8,3.8C754.6,685.5,754.6,675.2,748.3,668.9 M736.8,658.8h-5.4v-5.4h-16.2v5.4h-5.4c-1.5,0-2.7,1.2-2.7,2.7
+	v43.2c0,1.5,1.2,2.7,2.7,2.7h27c1.5,0,2.7-1.2,2.7-2.7v-43.2C739.5,660,738.3,658.8,736.8,658.8 M734.1,675h-21.6v-10.8h21.6V675z"
+	/>
+<path d="M652.6,311.7c-8.2,0-11.4-11.6-14.9-23.8c-2.5-8.8-5.6-19.9-9.7-19.9c-7.2,0-9,11.4-9.4,16.6c-0.1,1.4-1.3,2.5-2.7,2.5h0
+	c-1.6,0-2.9-1.3-2.7-2.9c0.5-6.5,3-21.6,14.9-21.6c8.2,0,11.5,11.6,14.9,23.9c2.3,8.4,5.5,19.8,9.6,19.8c7.3,0,9.1-11.4,9.5-16.6
+	c0.1-1.4,1.3-2.5,2.7-2.5l0,0c1.6,0,2.9,1.3,2.7,2.9C667.1,296.6,664.6,311.7,652.6,311.7z"/>
+<text transform="matrix(1 0 0 1 673.928 294.107)" class="st2 st3">Power Monitoring</text>
+<text transform="matrix(1 0 0 1 309.7558 776.8633)" class="st2 st3">Inverter</text>
+<text transform="matrix(1 0 0 1 1214.7657 776.8635)" class="st2 st3">Shore</text>
+<text transform="matrix(1 0 0 1 1992.5728 776.8634)" class="st2 st3">Generator</text>
+<text transform="matrix(1 0 0 1 981.0687 145.8323)" class="st2 st4">A/C Power Controllers</text>
+</svg>
